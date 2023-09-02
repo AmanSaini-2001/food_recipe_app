@@ -1,6 +1,6 @@
 Welcome to Recipe Mania, a web application built with React.js and Axios that helps us to explore different recipes. 
 Used Axios to make requests to the Meal DB API, which provides a vast collection of food recipes. 
-In this Recipe Mania used asynchronous API calls, handled responses, and updated the state of React components with the retrieved recipe data.
+In this Recipe Mania i have used asynchronous API calls, handled responses, and updated the state of React components with the retrieved recipe data.
 
 Project Description:
 
